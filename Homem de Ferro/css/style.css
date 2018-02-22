@@ -1,0 +1,185 @@
+#a {	background-color: black; width: 60px; height: 20px;}
+#b {background-color: black;width: 40px; height: 20px; margin-right: 100px;}
+#b1 {background-color: #8B0000; width: 60px;	height: 20px; margin-top: -20px;}
+#b2 {background-color: black; width: 40px; height: 20px; margin-left: 100px; margin-top: -20px;}
+#c {background-color: #8B0000; width: 60px; height: 20px;}
+#c1 {background-color: #FFD700; width: 40px;	height: 20px; margin-left: 100px; margin-top: -20px;}
+#c2 {background-color: #FFD700; width: 40px; height: 20px; margin-left: -100px;	margin-top: -20px;}
+#c3 {background-color: black; width: 20px; height: 20px; margin-left: 160px;	margin-top: -20px;}
+#c4 {background-color: black; width: 20px; height: 20px; margin-left: -160px; margin-top: -20px;}
+#d {background-color: #8B0000; width: 20px;	height: 20px;}
+#d1 {background-color: #FFD700; width: 80px;	height: 20px; margin-left: -100px; margin-top: -20px;}
+#d2 {background-color: #FFD700; width: 80px; height: 20px; margin-left: 100px; margin-top: -20px;}
+#d3 {background-color: black; width: 20px; height: 20px;	margin-left: 200px;	margin-top: -20px;}
+#d4 {background-color: black; width: 20px; height: 20px;	margin-left: -200px; margin-top: -20px;}
+#e {background-color: #FFD700;	width: 140px; height: 20px;}
+#e1 {background-color: #8B0000; width: 20px;	height: 20px; margin-left: -160px; margin-top: -20px;}
+#e2 {background-color: #8B0000; width: 20px;	height: 20px; margin-left: 160px; margin-top: -20px;}
+#e3 {background-color: black; width: 20px; height: 20px;	margin-left: -200px; margin-top: -20px;}
+#e4 {background-color: black; width: 20px; height: 20px;	margin-left: 200px;	margin-top: -20px;}
+#f {background-color: #FFD700; width: 60px; height: 20px;}
+#f1 {background-color: black; width: 40px; height: 20px;	margin-left: 100px; margin-top: -20px;}
+#f2 {background-color: black; width: 40px; height: 20px;	margin-left: -100px; margin-top: -20px;}
+#f3 {background-color: #8B0000; width: 40px;	height: 20px; margin-left: -180px; margin-top: -20px;}
+#f4 {background-color: #8B0000; width: 40px;	height: 20px; margin-left: 180px; margin-top: -20px;}
+#f5 {background-color: black; width: 20px; height: 20px;	margin-left: 240px; margin-top: -20px;}
+#f6 {background-color: black; width: 20px; height: 20px;	margin-left: -240px; margin-top: -20px;}
+#g {background-color: black;	width: 20px; height: 20px;}
+#g1 {background-color: #F5FFFA; width: 60px;	height: 20px; margin-left: 80px; margin-top: -20px;}
+#g2 {background-color: #F5FFFA; width: 60px; height: 20px; margin-left: -80px; margin-top: -20px;}
+#g3 {background-color: #FFD700; width: 20px; height: 20px; margin-left: -160px; margin-top: -20px;}
+#g4 {background-color: #FFD700; width: 20px; height: 20px; margin-left: 160px; margin-top: -20px;}
+#g5 {background-color: #8B0000; width: 20px; height: 20px; margin-left: -200px; margin-top: -20px;}
+#g6 {background-color: #8B0000; width: 20px; height: 20px; margin-left: 200px; margin-top: -20px;}
+#g7 {background-color: black; width: 20px; height: 20px; margin-left: -240px; margin-top: -20px;}
+#g8 {background-color: black; width: 20px; height: 20px; margin-left: 240px; margin-top: -20px;}
+#h {background-color: #FFD700; width: 180px; height: 20px;}
+#h1 {background-color: #8B0000; width: 20px; height: 20px; margin-left: -200px; margin-top: -20px;}
+#h2 {background-color: #8B0000; width: 20px; height: 20px; margin-left: 200px; margin-top: -20px;}
+#h3 {background-color: black; width: 20px; height: 20px; margin-left: -240px; margin-top: -20px;}
+#h4 {background-color: black; width: 20px; height: 20px; margin-left: 240px; margin-top: -20px;}
+#i {background-color: #FFD700; width: 140px; height: 20px;}
+#i1 {background-color: #8B0000; width: 20px; height: 20px; margin-left: -160px; margin-top: -20px;}
+#i2 {background-color: #8B0000; width: 20px; height: 20px; margin-left: 160px; margin-top: -20px;}
+#i3 {background-color: black; width: 20px; height: 20px; margin-left: -200px; margin-top: -20px;}
+#i4 {background-color: black; width: 20px; height: 20px; margin-left: 200px; margin-top: -20px;}
+#j {background-color: #FFD700; width: 100px; height: 20px;}
+#j1 {background-color: #8B0000; width: 40px; height: 20px; margin-left: -140px; margin-top: -20px;}
+#j2 {background-color: #8B0000; width: 40px; height: 20px; margin-left: 140px; margin-top: -20px;}
+#j3 {background-color: black; width: 60px; height: 20px; margin-left: -240px; margin-top: -20px;}
+#j4 {background-color: black; width: 60px; height: 20px; margin-left: 240px; margin-top: -20px;}
+#k {background-color: black; width: 60px; height: 20px;}
+#k1 {background-color: #FFD700; width: 20px; height: 20px; margin-left: -80px; margin-top: -20px;}
+#k2 {background-color: #FFD700; width: 20px; height: 20px; margin-left: 80px; margin-top: -20px;}
+#k3 {background-color: #8B0000; width: 40px; height: 20px; margin-left: -140px; margin-top: -20px;}
+#k4 {background-color: #8B0000; width: 40px; height: 20px; margin-left: 140px; margin-top: -20px;}
+#k5 {background-color: black; width: 20px; height: 20px; margin-left: -200px; margin-top: -20px;}
+#k6 {background-color: black; width: 20px; height: 20px; margin-left: 200px; margin-top: -20px;}
+#k7 {background-color: #8B0000; width: 40px; height: 20px; margin-left: -260px; margin-top: -20px;}
+#k8 {background-color: #8B0000; width: 20px; height: 20px; margin-left: 240px; margin-top: -20px;}
+#k9 {background-color: black; width: 60px; height: 20px; margin-left: -360px; margin-top: -20px;}
+#k10 {background-color: black; width: 100px; height: 20px; margin-left: 360px; margin-top: -20px;}
+#l {background-color: #FFD700; width: 60px; height: 20px;}
+#l1 {background-color: black; width: 20px; height: 20px; margin-left: -80px; margin-top: -20px;}
+#l2 {background-color: black; width: 20px; height: 20px; margin-left: 80px; margin-top: -20px;}
+#l3 {background-color: #8B0000; width: 20px; height: 20px; margin-left: -120px; margin-top: -20px;}
+#l4 {background-color: #8B0000; width: 20px; height: 20px; margin-left: 120px; margin-top: -20px;}
+#l5 {background-color: black; width: 20px; height: 20px; margin-left: -160px; margin-top: -20px;}
+#l6 {background-color: black; width: 20px; height: 20px; margin-left: 160px; margin-top: -20px;}
+#l7 {background-color: #8B0000; width: 20px; height: 20px; margin-left: -200px; margin-top: -20px;}
+#l8 {background-color: #8B0000; width: 20px; height: 20px; margin-left: 200px; margin-top: -20px;}
+#l9 {background-color: #FFD700; width: 40px; height: 20px; margin-left: -260px; margin-top: -20px;}
+#l10 {background-color: #FFD700; width: 40px; height: 20px; margin-left: 260px; margin-top: -20px;}
+#l11 {background-color: #8B0000; width: 40px; height: 20px; margin-left: -340px; margin-top: -20px;}
+#l12 {background-color: #8B0000; width: 40px; height: 20px; margin-left: 340px; margin-top: -20px;}
+#l13 {background-color: #FFD700; width: 20px; height: 20px; margin-left: -400px; margin-top: -20px;}
+#l14 {background-color: #FFD700; width: 40px; height: 20px; margin-left: 420px; margin-top: -20px;}
+#l15 {background-color: black; width: 80px; height: 20px; margin-left: -500px; margin-top: -20px;}
+#l16 {background-color: black; width: 60px; height: 20px; margin-left: 520px; margin-top: -20px;}
+#m {background-color: #8B0000; width: 100px; height: 20px;}
+#m1 {background-color: black; width: 20px; height: 20px; margin-left: -120px; margin-top: -20px;}
+#m2 {background-color: black; width: 20px; height: 20px; margin-left: 120px; margin-top: -20px;}
+#m3 {background-color: #8B0000; width: 40px; height: 20px; margin-left: -180px; margin-top: -20px;}
+#m4 {background-color: #8B0000; width: 60px; height: 20px; margin-left: 200px; margin-top: -20px;}
+#m5 {background-color: #FFD700; width: 40px; height: 20px; margin-left: -260px; margin-top: -20px;}
+#m6 {background-color: #FFD700; width: 20px; height: 20px; margin-left: 280px; margin-top: -20px;}
+#m7 {background-color: #8B0000; width: 20px; height: 20px; margin-left: -320px; margin-top: -20px;}
+#m8 {background-color: #8B0000; width: 20px; height: 20px; margin-left: 320px; margin-top: -20px;}
+#m9 {background-color: #FFD700; width: 40px; height: 20px; margin-left: -380px; margin-top: -20px;}
+#m10 {background-color: #FFD700; width: 40px; height: 20px; margin-left: 380px; margin-top: -20px;}
+#m11 {background-color: black; width: 20px; height: 20px; margin-left: -440px; margin-top: -20px;}
+#m12 {background-color: black; width: 20px; height: 20px; margin-left: 440px; margin-top: -20px;}
+#m13 {background-color: #8B0000; width: 40px; height: 20px; margin-left: -500px; margin-top: -20px;}
+#m14 {background-color: #8B0000; width: 40px; height: 20px; margin-left: 500px; margin-top: -20px;}
+#m15 {background-color: black; width: 20px; height: 20px; margin-left: -560px; margin-top: -20px;}
+#m16 {background-color: black; width: 20px; height: 20px; margin-left: 560px; margin-top: -20px;}
+#n {background-color: black; width: 100px; height: 20px;}
+#n1 {background-color: #8B0000; width: 80px; height: 20px; margin-left: 180px; margin-top: -20px;}
+#n2 {background-color: #8B0000; width: 60px; height: 20px; margin-left: -160px; margin-top: -20px;}
+#n3 {background-color: black; width: 140px; height: 20px; margin-left: 400px; margin-top: -20px;}
+#n4 {background-color: black; width: 160px; height: 20px; margin-left: -380px; margin-top: -20px;}
+#n5 {background-color: #F5FFFA; width: 20px; height: 20px; margin-left: 560px; margin-top: -20px;}
+#o {background-color: #F5FFFA; width: 60px; height: 20px;}
+#o1 {background-color: black; width: 20px; height: 20px; margin-left: 80px; margin-top: -20px;}
+#o2 {background-color: black; width: 20px; height: 20px; margin-left: -80px; margin-top: -20px;}
+#o3 {background-color: #8B0000; width: 80px; height: 20px; margin-left: 180px; margin-top: -20px;}
+#o4 {background-color: #8B0000; width: 40px; height: 20px; margin-left: -140px; margin-top: -20px;}
+#o5 {background-color: black; width: 60px; height: 20px; margin-left: 240px; margin-top: -20px;}
+#o6 {background-color: black; width: 20px; height: 20px; margin-left: -200px; margin-top: -20px;}
+#o7 {background-color: #F5FFFA; width: 40px; height: 20px; margin-left: 500px; margin-top: -20px;}
+#o8 {background-color: #F5FFFA; width: 60px; height: 20px; margin-left: -480px; margin-top: -20px;}
+#p {background-color: #F5FFFA; width: 20px; height: 20px;}
+#p1 {background-color: black; width: 20px; height: 20px; margin-left: -40px; margin-top: -20px;}
+#p2 {background-color: black; width: 20px; height: 20px; margin-left: 40px; margin-top: -20px;}
+#p3 {background-color: #8B0000; width: 60px; height: 20px; margin-left: -120px; margin-top: -20px;}
+#p4 {background-color: #8B0000; width: 40px; height: 20px; margin-left: 100px; margin-top: -20px;}
+#p5 {background-color: black; width: 20px; height: 20px; margin-left: -200px; margin-top: -20px;}
+#p6 {background-color: black; width: 40px; height: 20px; margin-left: 180px; margin-top: -20px;}
+#p7 {background-color: #F5FFFA; width: 20px; height: 20px; margin-left: -480px; margin-top: -20px;}
+
+#p8 {background-color: #F5FFFA; width: 20px; height: 20px; margin-left: 520px; margin-top: -20px;}
+#r {background-color: black; width: 20px; height: 20px;}
+#r1 {background-color: #8B0000; width: 60px; height: 20px; margin-left: -80px; margin-top: -20px;}
+#r2 {background-color: #8B0000; width: 60px; height: 20px; margin-left: 80px; margin-top: -20px;}
+#r3 {background-color: black; width: 20px; height: 20px; margin-left: -160px; margin-top: -20px;}
+#r4 {background-color: black; width: 20px; height: 20px; margin-left: 160px; margin-top: -20px;}
+#s {background-color: #8B0000; width: 140px; height: 20px;}
+#s1 {background-color: black; width: 20px; height: 20px; margin-left: 160px; margin-top: -20px;}
+#s2 {background-color: black; width: 20px; height: 20px; margin-left: -160px; margin-top: -20px;}
+#t {background-color: #8B0000; width: 100px; height: 20px;}
+#t1 {background-color: #FFD700; width: 20px; height: 20px; margin-left: 120px; margin-top: -20px;}
+#t2 {background-color: #FFD700; width: 20px; height: 20px; margin-left: -120px; margin-top: -20px;}
+#t3 {background-color: black; width: 20px; height: 20px; margin-left: 160px; margin-top: -20px;}
+#t4 {background-color: black; width: 20px; height: 20px; margin-left: -160px; margin-top: -20px;}
+#u {background-color: #8B0000; width: 60px; height: 20px;}
+#u1 {background-color: #FFD700; width: 60px; height: 20px; margin-left: 120px; margin-top: -20px;}
+#u2 {background-color: #FFD700; width: 60px; height: 20px; margin-left: -120px; margin-top: -20px;}
+#u3 {background-color: black; width: 20px; height: 20px; margin-left: 200px; margin-top: -20px;}
+#u4 {background-color: black; width: 20px; height: 20px; margin-left: -200px; margin-top: -20px;}
+#v {background-color: black; width: 20px; height: 20px;}
+#v1 {background-color: #FFD700; width: 100px; height: 20px; margin-left: 120px; margin-top: -20px;}
+#v2 {background-color: #FFD700; width: 100px; height: 20px; margin-left: -120px; margin-top: -20px;}
+#v3 {background-color: black; width: 20px; height: 20px; margin-left: 240px; margin-top: -20px;}
+#v4 {background-color: black; width: 20px; height: 20px; margin-left: -240px; margin-top: -20px;}
+#x {background-color: black; width: 20px; height: 20px; margin-left: 40px;}
+#x1 {background-color: black; width: 20px; height: 20px; margin-left: -40px; margin-top: -20px;}
+#x2 {background-color: #FFD700; width: 80px; height: 20px; margin-left: 140px; margin-top: -20px;}
+#x3 {background-color: #FFD700; width: 100px; height: 20px; margin-left: -160px; margin-top: -20px;}
+#x4 {background-color: #8B0000; width: 20px; height: 20px; margin-left: -200px; margin-top: -20px;}
+#x5 {background-color: black; width: 20px; height: 20px; margin-left: 240px; margin-top: -20px;}
+#x6 {background-color: black; width: 20px; height: 20px; margin-left: -240px; margin-top: -20px;}
+#w {background-color: black; width: 20px; height: 20px; margin-left: 80px;}
+#w1 {background-color: black; width: 20px; height: 20px; margin-left: -40px; margin-top: -20px;}
+#w2 {background-color: #FFD700; width: 40px; height: 20px; margin-left: 140px; margin-top: -20px;}
+#w3 {background-color: #FFD700; width: 40px; height: 20px; margin-left: -100px; margin-top: -20px;}
+#w4 {background-color: #8B0000; width: 40px; height: 20px; margin-left: 220px; margin-top: -20px;}
+#w5 {background-color: #8B0000; width: 60px; height: 20px; margin-left: -200px; margin-top: -20px;}
+#w6 {background-color: black; width: 20px; height: 20px; margin-left: 280px; margin-top: -20px;}
+#w7 {background-color: black; width: 20px; height: 20px; margin-left: -280px; margin-top: -20px;}
+#y {background-color: black; width: 20px; height: 20px; margin-left: 80px;}
+#y1 {background-color: black; width: 20px; height: 20px; margin-left: -80px; margin-top: -20px;}
+#y2 {background-color: #8B0000; width: 100px; height: 20px; margin-left: 200px; margin-top: -20px;}
+#y3 {background-color: #8B0000; width: 100px; height: 20px; margin-left: -200px; margin-top: -20px;}
+#y4 {background-color: black; width: 40px; height: 20px; margin-left: 340px; margin-top: -20px;}
+#y5 {background-color: black; width: 40px; height: 20px; margin-left: -340px; margin-top: -20px;}
+#z {background-color: black; width: 20px; height: 20px; margin-left: 80px;}
+#z1 {background-color: black; width: 20px; height: 20px; margin-left: -80px; margin-top: -20px;}
+#z2 {background-color: #8B0000; width: 140px; height: 20px; margin-left: 240px; margin-top: -20px;}
+#z3 {background-color: #8B0000; width: 140px; height: 20px; margin-left: -240px; margin-top: -20px;}
+#z4 {background-color: black; width: 20px; height: 20px; margin-left: 400px; margin-top: -20px;}
+#z5 {background-color: black; width: 20px; height: 20px; margin-left: -400px; margin-top: -20px;}
+#zz {background-color: black; width: 180px; height: 20px; margin-left: 240px;}
+#zz1 {background-color: black; width: 180px; height: 20px; margin-left: -240px; margin-top: -20px;}
+#ab {background-color: #F5FFFA; width: 100px; height: 20px; margin-left: 240px;}
+#ab1 {background-color: #F5FFFA; width: 60px; height: 20px; margin-left: -240px; margin-top: -20px;}
+#ac {background-color: #F5FFFA; width: 100px; height: 20px; margin-left: 240px;}
+#ac1 {background-color: #F5FFFA; width: 100px; height: 20px; margin-left: -240px; margin-top: -20px;}
+#ad {background-color: #F5FFFA; width: 60px; height: 20px; margin-left: 240px;}
+#ad1 {background-color: #F5FFFA; width: 60px; height: 20px; margin-left: -240px; margin-top: -20px;}
+#ae {background-color: #F5FFFA; width: 20px; height: 20px; margin-left: 240px;}
+#ae1 {background-color: #F5FFFA; width: 20px; height: 20px; margin-left: -240px; margin-top: -20px;}
+#ae2 {background-color: #F5FFFA; width: 20px; height: 20px; margin-left: 320px; margin-top: -20px;}
+#af {background-color: #F5FFFA; width: 20px; height: 20px; margin-left: 240px;}
+#af1 {background-color: #F5FFFA; width: 20px; height: 20px; margin-left: -200px; margin-top: -20px;}
+#ag {background-color: #F5FFFA; width: 20px; height: 20px; margin-left: 200px;}
+#ag1 {background-color: #F5FFFA; width: 20px; height: 20px; margin-left: -240px;margin-top: -20px;}
